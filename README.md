@@ -14,3 +14,6 @@ Use the "Check images" button to check whether any images are affected by the tr
 
 Use the "Fix images" button to correct them.
 ![image](https://github.com/effi10/bulk-add-alt-woocommerce/assets/97899389/90858b93-0490-437f-9669-c6d1a547321e)
+
+
+*Disclaimer: please note that the code presented does not incorporate any security concepts and should not be used in production. It may, however, be used on an occasional basis.* 
